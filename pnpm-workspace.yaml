@@ -1,0 +1,8 @@
+packages:
+  - .
+
+# pnpm 11 映射格式（包名: true/false）。
+# esbuild 0.28 二进制来自 @esbuild/win32-x64 optionalDependencies，postinstall 仅为校验；
+# 沙箱下 pnpm 捕获 postinstall 子进程输出会 EPERM，故跳过 build script（功能不受影响）。
+allowBuilds:
+  esbuild: false

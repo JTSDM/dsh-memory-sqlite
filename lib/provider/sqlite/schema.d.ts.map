@@ -1,0 +1,1 @@
+{"version":3,"file":"schema.d.ts","sourceRoot":"","sources":["../../../src/provider/sqlite/schema.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;GAUG;AAEH,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,aAAa,CAAA;AAE/C,eAAO,MAAM,qBAAqB,IAAI,CAAA;AACtC,iEAAiE;AACjE,eAAO,MAAM,qBAAqB,aAAc,CAAA;AAEhD,wBAAgB,YAAY,CAAC,EAAE,EAAE,YAAY,GAAG,IAAI,CAwGnD"}

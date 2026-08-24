@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# local package manager caches
+.npm-cache/
+.pnpm-store/
+
+# local registry/config overrides (CI uses the default npm registry)
+.npmrc
+
+# logs
+*.log
+
+# backups
+backups/
+
+# editor / OS
+.DS_Store
+Thumbs.db
+
+# coverage / build intermediates
+coverage/
+*.tsbuildinfo

@@ -1,0 +1,4 @@
+# dsh-memory bundle layer: insert the plugin row when this bundle is active.
+- insert:
+    - id: dsh-memory
+      name: dsh-memory
