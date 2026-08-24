@@ -2,14 +2,14 @@
   "name": "dsh-memory-sqlite",
   "version": "0.1.0",
   "description": "Native memory service layer for DeepSeek Harness: ctx.provide('memory') with SQLite local provider (content_hash idempotency + FTS5), async lifecycle engine, memorize/recall agent tools, and WorkBuddy file bridge (JSONL + sentinel-rendered MEMORY.md).",
-  "author": "mochengfeng",
+  "author": "JTSDM",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mochengfeng/dsh-memory-sqlite.git"
+    "url": "git+https://github.com/JTSDM/dsh-memory-sqlite.git"
   },
-  "homepage": "https://github.com/mochengfeng/dsh-memory-sqlite#readme",
+  "homepage": "https://github.com/JTSDM/dsh-memory-sqlite#readme",
   "bugs": {
-    "url": "https://github.com/mochengfeng/dsh-memory-sqlite/issues"
+    "url": "https://github.com/JTSDM/dsh-memory-sqlite/issues"
   },
   "packageManager": "pnpm@11.21.0",
   "type": "module",

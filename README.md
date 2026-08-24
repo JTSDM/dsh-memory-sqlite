@@ -34,7 +34,7 @@ DSH 生态里已有多个同名/近义记忆插件，本插件聚焦以下差异
 dsh plugin --profile web add file:<本地仓库路径>
 
 # 方式 B：从 GitHub 安装（clone 即用，lib/ 已入库无需构建）
-dsh plugin --profile web add github:mochengfeng/dsh-memory-sqlite
+dsh plugin --profile web add github:JTSDM/dsh-memory-sqlite
 ```
 
 > 提示：`dsh plugin add file:<path>` 是拷贝式安装——源码或 `lib/` 更新后需删除 profile 内 `dsh-memory` 目录并 `pnpm add --force` 重装，否则运行时加载旧代码。
