@@ -31,9 +31,9 @@ DSH 生态里已有多个同名/近义记忆插件，本插件聚焦以下差异
 
 ```bash
 # 方式 A：从本地路径安装（开发/内网）
-dsh plugin --profile web add file:F:\Agentwork\DSH优化项目\dsh-memory
+dsh plugin --profile web add file:<本地仓库路径>
 
-# 方式 B：从 GitHub 安装（发布后，clone 即用，lib/ 已入库无需构建）
+# 方式 B：从 GitHub 安装（clone 即用，lib/ 已入库无需构建）
 dsh plugin --profile web add github:mochengfeng/dsh-memory-sqlite
 ```
 
